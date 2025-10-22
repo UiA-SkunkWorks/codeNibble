@@ -14,6 +14,7 @@ Remember to save (Ctrl + S) whenever you make a change.
 - [ ] Draw the ambulance front in cell 1
 - [ ] Draw the ambulance back in cell 17
 - [ ] Draw the alternative front in cell 2
+![The full sprite](/sprite.png)
 
 ## Drawing code
 
